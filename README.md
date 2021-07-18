@@ -2,13 +2,15 @@
 
 This is an object-oriented MATLAB program to control the Murdoch University Engineering Pilot Plant.
 
+Authors: Ewan Thompson, Andrew Ebbett, Aydan Willshire.
+
+## Background
+
 Created as part of ENG445: Instrumentation and Control Systems Design.
 
 Within the Instrumentation and Control Engineering major.
 
 Under the supervision and with the assistance of Dr Linh Vu.
-
-Authors: Ewan Thompson, Andrew Ebbett, Aydan Willshire.
 
 Murdoch University, Semester 1, 2021.
 
