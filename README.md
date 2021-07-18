@@ -16,6 +16,6 @@ Murdoch University, Semester 1, 2021.
 
 ## Usage
 
-To run the program, open and run "pilotplant.m".
+To run the program, open and run `pilotplant.m`.
 
 The program is large and object-oriented in design. Individual classes can be opened and examined from within the MATLAB (or other) editor, but should other than "pilotplant.m" in the root directory, nothing should be executed directly.
