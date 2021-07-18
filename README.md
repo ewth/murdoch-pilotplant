@@ -7,8 +7,11 @@ Authors: [Ewan Thompson](https://www.linkedin.com/in/ewant), [Andrew Ebbett](htt
 ## Background
 
 Created as part of ENG445: Instrumentation and Control Systems Design.
+
 Within the Instrumentation and Control Engineering major.
+
 Under the supervision and with the assistance of Dr Linh Vu.
+
 Murdoch University, Semester 1, 2021.
 
 ## Usage
